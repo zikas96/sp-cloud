@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/microSpringCloud.iml" filepath="$PROJECT_DIR$/.idea/microSpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-company/service-company.iml" filepath="$PROJECT_DIR$/service-company/service-company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-config/service-config.iml" filepath="$PROJECT_DIR$/service-config/service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-proxy/service-proxy.iml" filepath="$PROJECT_DIR$/service-proxy/service-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-register/service-register.iml" filepath="$PROJECT_DIR$/service-register/service-register.iml" />
+    </modules>
+  </component>
+</project>
